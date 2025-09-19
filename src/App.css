@@ -5,8 +5,28 @@
   text-align: center;
 }
 
+
+button {
+  background-color: rgb(81, 211, 20);
+  
+}
+
+.delete-btn{
+  background-color: red;
+}
+
+.input-container {
+  display: flex;
+  gap: 10px;
+}
+
+.tabela-orcamento {
+  width: 100%
+  margin-top: auto;
+}
+
 input {
-  flex: 1;
+  padding: 10px;
 }
 
 .logo {
